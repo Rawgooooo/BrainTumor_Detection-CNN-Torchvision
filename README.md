@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection Using CNN (Torchvision)
 
-## 🚀 Overview
+## Overview
 This project aims to automate the detection of brain tumors in CT scan images using a Convolutional Neural Network (CNN) built with PyTorch. The model classifies input brain scans as either **Tumor** or **Healthy**, helping reduce diagnostic time and error in medical imaging.
 
 ---
@@ -10,7 +10,7 @@ Manual diagnosis of brain tumors from MRI/CT scans is time-consuming and prone t
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 - Custom **Convolutional Neural Network (CNN)** with:
   - 3 Conv2D blocks + MaxPooling
   - Batch Normalization & Dropout
@@ -26,7 +26,7 @@ Manual diagnosis of brain tumors from MRI/CT scans is time-consuming and prone t
 
 ---
 
-## 🛠 Libraries Used
+## Libraries Used
 - `PyTorch`, `torchvision`
 - `numpy`, `matplotlib`, `seaborn`
 - `splitfolders` for dataset management
