@@ -34,17 +34,6 @@ Manual diagnosis of brain tumors from MRI/CT scans is time-consuming and prone t
 
 ---
 
-## 🧪 How to Run
+## Resources
 
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Prepare the data (if needed)
-python prepare_data.py
-
-# Train the model
-python train.py
-
-# Evaluate
-python evaluate.py
+https://medium.com/@danplotkin/classifying-brain-cancer-tumors-with-pytorch-6ff1a26164f9
